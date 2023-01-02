@@ -1,0 +1,1 @@
+本專案是文章 [Day 20: C# 引用第三方程式: 動態載入、反射 (Reflection) ](https://ithelp.ithome.com.tw/articles/10301948) 內的測試函示庫。
